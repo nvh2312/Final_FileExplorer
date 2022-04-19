@@ -5,6 +5,7 @@
     android:layout_height="match_parent">
 
     <TextView
+        android:layout_marginTop="20dp"
         android:text="Card Fragment"
         android:textSize="32sp"
         android:gravity="center"
